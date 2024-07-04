@@ -67,8 +67,8 @@ with col1:
         st.write("- We finished this competition in fourth grade.")
 
 with col2:
-    st.video("images/vega.png")
-    st.video("images/team.jpeg")
+    st.image("images/vega.png")
+    st.image("images/team.jpeg")
 
 st.header("My Skills")
 st.slider("MATLAB/Simulink", 0, 5, 4)
