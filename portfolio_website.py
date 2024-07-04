@@ -80,5 +80,5 @@ st.slider("LaTex", 0, 5, 5)
 
 st.write(" ")
 st.title("Contact")
-st.write("akifarslan001@gmail.com")
+st.write("E-mail: akifarslan001@gmail.com")
 st.write("Linkedin: https://www.linkedin.com/in/mehmet-akif-arslan-3184b7254/")
