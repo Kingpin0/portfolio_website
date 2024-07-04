@@ -26,7 +26,7 @@ persona = """
         Mehmet Akif was born in Trabzon on November 1, 2001. He has two names: Mehmet and Akif, but he prefers to use 
         Akif. He lived in Trabzon until he was six, and then he moved to 
         Ankara in 2006. Since then, he has lived in Ankara. Akif obtained his bachelor's degree in aerospace engineering.
-        in 2024. He wants to pursue a career in the aircraft flight dynamics field. He is working on improving himself 
+        in 2024. His GPA is 3.31. He wants to pursue a career in the aircraft flight dynamics field. He is working on improving himself 
         on modeling and simulation, he is also interested in automatic flight control. He is a hard worker and has high
         communication skills which makes him a good team member. His hobbies are football, post-apocalyptic stories and
         walking. Especially he loves watching and playing football. He is a fan of Trabzonspor which is the greatest
