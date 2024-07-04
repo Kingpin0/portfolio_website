@@ -15,7 +15,7 @@ with col1:
 
 with col2:
     st.header(" ")
-    
+    st.header(" ")
     st.image("images/vesikalik.jpg")
 
 persona = """ 
