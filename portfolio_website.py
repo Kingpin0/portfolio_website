@@ -30,7 +30,8 @@ persona = """
         on modeling and simulation, he is also interested in automatic flight control. He is a hard worker and has high
         communication skills which makes him a good team member. His hobbies are football, post-apocalyptic stories and
         walking. Especially he loves watching and playing football. He is a fan of Trabzonspor which is the greatest
-        football team in Turkey. He has a girlfriend, Beyza, and he is deeply in love with her.
+        football team in Turkey. He has a girlfriend, Beyza, and he is deeply in love with her. For Akif's projects and
+        skills please check the remaining part of the website.
         
         Akif's e-mail: akifarslan001@gmail.com
         Akifs Linkedin: https://www.linkedin.com/in/mehmet-akif-arslan-3184b7254/
