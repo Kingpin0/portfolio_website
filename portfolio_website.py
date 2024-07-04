@@ -51,13 +51,24 @@ if st.button("ASK", use_container_width=400):
 col1, col2 = st.columns(2)
 with col1:
         st.subheader("Maneuver Control with 6 Degrees of Freedom Aircraft Model")
-        st.write("- In this project I was a member of who created a 6-DOF aircraft model using simulink.")
+        st.write("- In this project I was a member of who created a 6-DOF aircraft model using Simulink.")
         st.write("- By using this model and help of the PID controller we did Loop and Aileron Roll maneuvers.")
         st.write("- The paper we wrote is published in Lift-Up.")
 
 with col2:
     st.video("images/loop.mp4")
     st.video("images/roll.mp4")
+
+col1, col2 = st.columns(2)
+with col1:
+        st.subheader("Helicopter Design Competition")
+        st.write("- In this project we designed an combat helicopter.")
+        st.write("- My duty on this project was performance optimization and survivability analysis of the helicopter.")
+        st.write("- We finished this competition in fourth grade.")
+
+with col2:
+    st.video("images/vega.png")
+    st.video("images/team.jpeg")
 
 st.header("My Skills")
 st.slider("MATLAB/Simulink", 0, 5, 4)
@@ -67,5 +78,6 @@ st.slider("MS Office", 0, 5, 4)
 st.slider("LaTex", 0, 5, 5)
 
 st.write(" ")
-st.write("Contact")
+st.title("Contact")
 st.write("akifarslan001@gmail.com")
+st.write("Linkedin: https://www.linkedin.com/in/mehmet-akif-arslan-3184b7254/")
