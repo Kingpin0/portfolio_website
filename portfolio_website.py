@@ -11,7 +11,9 @@ col1, col2 = st.columns(2)
 with col1:
     st.subheader("Hi :wave:")
     st.title("I am Mehmet Akif Arslan")
-    st.write("I am a young, dynamic and hardworking engineer candidate who is constantly striving for self-development. I believe that I have high communication skills and I have experienced many times in my projects and internship processes that this feature has a positive effect on teamwork. My passion and determination in the field of aerospace engineering strengthens my goal of pursuing a career in this sector. I look forward to contributing to future projects and playing an important role in the development of aviation technology.")
+    st.write("As a recent graduate of Ankara Yıldırım Beyazıt University in Aerospace Engineering, I would like to further develop myself in the field of flight dynamics and pursue a career in this field. I aim to make significant contributions to projects with my effective communication skills and technical knowledge in teamwork. My passion and commitment to aerospace engineering is combined with my desire to contribute to projects in this sector and play a role in the development of aviation technology. I look forward to taking part in future projects and contributing to the advancement of the aerospace industry.
+
+")
 
 with col2:
     st.header("")
