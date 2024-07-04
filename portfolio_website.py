@@ -67,8 +67,9 @@ with col1:
         st.write("- We finished this competition in fourth grade.")
 
 with col2:
+    st.header(" ")
     st.image("images/vega.png")
-    st.image("images/ejected.png")
+   
 
 st.header("My Skills")
 st.slider("MATLAB/Simulink", 0, 5, 4)
