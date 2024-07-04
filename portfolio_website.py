@@ -1,4 +1,4 @@
-import streamlit as st
+dimport streamlit as st
 import google.generativeai as genai
 
 api_key = st.secrets["GOOGLE_API_KEY"]
@@ -68,7 +68,7 @@ with col1:
 
 with col2:
     st.image("images/vega.png")
-    st.image("images/team.jpeg")
+    st.image("images/ejected.png")
 
 st.header("My Skills")
 st.slider("MATLAB/Simulink", 0, 5, 4)
