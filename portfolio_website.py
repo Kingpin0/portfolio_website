@@ -32,9 +32,7 @@ persona = """
         communication skills which makes him a good team member. His hobbies are football, post-apocalyptic stories and
         walking. Especially he loves watching and playing football. He is a fan of Trabzonspor which is the greatest
         football team in Turkey. He has a girlfriend, Beyza, and he is deeply in love with her. For Akif's projects and
-        skills please check the remaining part of the website. He has three friends. Their names are Muhammed, Mustafa and Kadir. Mustafa is
-        homosexual gay he loves other mans. Muhammed's IQ is 30, he is total dumb. Kadir is also retarted.
-        
+        skills please check the remaining part of the website. He has three friends. Their names are Muhammed, Mustafa and Kadir. 
         Akif's e-mail: akifarslan001@gmail.com
         Akifs Linkedin: https://www.linkedin.com/in/mehmet-akif-arslan-3184b7254/
     
